@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mo0nbase</h1>
 <h3 align="center">A space loving researcher and block-chain developer.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mo0nbase" alt="mo0nbase" /></a> </p>
 
 - 🔭 I’m currently working on [A Calculator in Rule 110](https://github.com/Mo0nbase/Rule110Calculator)
 
